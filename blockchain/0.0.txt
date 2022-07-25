@@ -1,0 +1,7 @@
+{
+ "header": {
+  "previous_hash": 0,
+  "nonce": "0.8476469540559176"
+ },
+ "transactions": []
+}
